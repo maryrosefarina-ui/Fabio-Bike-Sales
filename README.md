@@ -45,7 +45,7 @@ The business experienced **strong YoY growth across all major sales KPIs:**
 In the year 2011, sales continued to spike significantly until 2013. Key performance indicators have all shown year-over-year increases in performing months. This increase can be attributed to prioritising target customers, stock availability, and promotional banners. 
 
 Below is the overview snapshot from the Tableau Dashboard and performance throughout the report.
-![](images/picture5.png)
+![](images/kpi_sales.png)
 
 # Product Performance Overview
 
@@ -54,7 +54,7 @@ The Sales & Profit by Subcategory visual clearly differentiates between the top 
 * Lower-performing subcategories such as Helmets, Jerseys, and Gloves appear in red, indicating negative or below-average profit contribution.
   
 This breakdown helps identify which product lines should receive increased investment and which may require pricing, cost, or inventory strategy adjustments.
-![](images/trend_analysis.png)
+![](images/sales_trends.png)
 
 ### Trend Analysis
 Weekly trend charts reinforce the monthly view by showing:

@@ -10,13 +10,13 @@ The goal is to help business stakeholders understand customer behaviour, product
 * Build customer and product insights to support marketing and operations teams.
 * Develop interactive **Sales** and **Customer Dashboards** in Tableau to support executive-level decision-making.
   
-The SQL performs data profiling to understand all aspects of the data.[view](scripts/1_Database.sql)
+The SQL performs data profiling to understand all aspects of the data. [view](scripts/1_Database.sql)
 
-SQL queries generate reports that address various business questions.[view](scripts/3_Data_Analytics_Queries.sql)
+SQL queries generate reports that address various business questions. [view](scripts/3_Data_Analytics_Queries.sql)
 
-SQL queries are utilized to clean, organize, and prepare data for the dashboard.[view](scripts/4_Cleaned_Data_Analysis.sql)
+SQL queries are utilized to clean, organize, and prepare data for the dashboard. [view](scripts/4_Cleaned_Data_Analysis.sql)
 
-SQL creates a table or view for users or stakeholders to analyze for decision-making.[view](scripts/Customer_Reports.sql) [view](scripts/Product_Reports.sql)
+SQL creates a table or view for users or stakeholders to analyze for decision-making. [view customer](scripts/Customer_Reports.sql) [view product](scripts/Product_Reports.sql)
 
 An interactive Tableau Dashboard can be downloaded [here.](https://github.com/maryrosefarina-ui/Fabio-Bike-Sales/blob/main/Sales%20%26%20Customer%20Dashboard.twbx)
 
@@ -35,7 +35,7 @@ The project uses **SQL Server** and **Tableau Desktop** to completely understand
 
 The Sales and Customer Dashboards provide a comprehensive view of business performance in 2010 to 2013, highlighting significant year-over-year growth in key metrics and offering clear insight into trends, customer behavior, and product profitability.
 
-# Sales Performance Overview
+### Sales Performance Overview
 
 The business experienced **strong YoY growth across all major sales KPIs:**
 * **Total Sales:** $16.3M, up **179.8%** YoY
@@ -45,16 +45,16 @@ The business experienced **strong YoY growth across all major sales KPIs:**
 In the year 2011, sales continued to spike significantly until 2013. Key performance indicators have all shown year-over-year increases in performing months. This increase can be attributed to prioritising target customers, stock availability, and promotional banners. 
 
 Below is the overview snapshot from the Tableau Dashboard and performance throughout the report.
-![](images/.png)
+![](images/kpi_sales.png)
 
-# Product Performance Overview
+### Product Performance Overview
 
 The Sales & Profit by Subcategory visual clearly differentiates between the top and bottom-performing product groups:
 * **Mountain Bikes, Road Bikes, and Touring Bikes** drive most of the profit, showing strong margins and sales growth compared to the prior year.
 * Lower-performing subcategories such as Helmets, Jerseys, and Gloves appear in red, indicating negative or below-average profit contribution.
   
 This breakdown helps identify which product lines should receive increased investment and which may require pricing, cost, or inventory strategy adjustments.
-![](images/.png)
+![](images/sales_trends.png)
 
 ### Trend Analysis
 Weekly trend charts reinforce the monthly view by showing:
@@ -64,7 +64,7 @@ Weekly trend charts reinforce the monthly view by showing:
 
 This granularity provides operational teams with insight into promotional timing, inventory planning, and demand forecasting.
 
-# Customer Performance Overview
+### Customer Performance Overview
 
 ### Customer Growth & Value
 Customer metrics also show exceptionally strong YoY growth:

@@ -10,15 +10,15 @@ The goal is to help business stakeholders understand customer behaviour, product
 * Build customer and product insights to support marketing and operations teams.
 * Develop interactive **Sales** and **Customer Dashboards** in Tableau to support executive-level decision-making.
   
-The SQL performs data profiling to understand all aspects of the data. ![view](scripts/1_Database.sql)
+The SQL performs data profiling to understand all aspects of the data.[view](scripts/1_Database.sql)
 
-SQL queries generate reports that address various business questions. ![view](scripts/3_Data_Analytics_Queries.sql)
+SQL queries generate reports that address various business questions.[view](scripts/3_Data_Analytics_Queries.sql)
 
-SQL queries are utilized to clean, organize, and prepare data for the dashboard. ![view](scripts/4_Cleaned_Data_Analysis.sql)
+SQL queries are utilized to clean, organize, and prepare data for the dashboard.[view](scripts/4_Cleaned_Data_Analysis.sql)
 
-SQL creates a table or view for users or stakeholders to analyze for decision-making. ![view customer reports](scripts/Customer_Reports.sql) ![view product reports](scripts/Product_Reports.sql)
+SQL creates a table or view for users or stakeholders to analyze for decision-making.[view customer reports](scripts/Customer_Reports.sql)[view product reports](scripts/Product_Reports.sql)
 
-An interactive Tableau ![Sales & Customers Dashboard](https://github.com/maryrosefarina-ui/Fabio-Bike-Sales/releases/download/v1.0/Sales & Customers Dashboard.twbx) can be downloaded.
+An interactive Tableau Dashboard can be downloaded [here.](https://github.com/maryrosefarina-ui/Fabio-Bike-Sales/blob/main/Sales & Customers Dashboard.twbx) can be downloaded.
 
 # Data Structure
 The data follows a star-schema structure optimized for analytical use with a total row count of 60,398 records.
@@ -45,7 +45,7 @@ The business experienced **strong YoY growth across all major sales KPIs:**
 In the year 2011, sales continued to spike significantly until 2013. Key performance indicators have all shown year-over-year increases in performing months. This increase can be attributed to prioritising target customers, stock availability, and promotional banners. 
 
 Below is the overview snapshot from the Tableau Dashboard and performance throughout the report.
-![](kpi_sales.png)
+![](images/kpi_sales.png)
 
 # Product Performance Overview
 
@@ -54,7 +54,7 @@ The Sales & Profit by Subcategory visual clearly differentiates between the top 
 * Lower-performing subcategories such as Helmets, Jerseys, and Gloves appear in red, indicating negative or below-average profit contribution.
   
 This breakdown helps identify which product lines should receive increased investment and which may require pricing, cost, or inventory strategy adjustments.
-![](trend_analysis.png)
+![](images/trend_analysis.png)
 
 ### Trend Analysis
 Weekly trend charts reinforce the monthly view by showing:
@@ -73,7 +73,7 @@ Customer metrics also show exceptionally strong YoY growth:
 * **Total Sales per Customer:** $938, slightly declining YoY (–47.7%), indicating rapid customer growth outpacing average spending
   
 This suggests that while the customer base is expanding quickly, retention and upsell programs could increase per-customer value.
-![](kpi_customers.png)
+![](images/kpi_customers.png)
  
 ### Customer Behavior
 The Customer Distribution by Number of Orders highlights important behavioral insights:
@@ -84,7 +84,7 @@ The Customer Distribution by Number of Orders highlights important behavioral in
 The Top 10 Customers by Profit highlight high-value individuals:
 * Rankings include total sales, total profit, order count, and last order date.
 * These customers contribute significantly to profitability, reinforcing the importance of segmentation and targeted outreach.
-![](customer_trends.png)
+![](images/customer_trends.png)
  
 # Recommendations
 

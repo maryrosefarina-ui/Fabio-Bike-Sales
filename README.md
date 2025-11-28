@@ -29,7 +29,7 @@ The data follows a star-schema structure optimized for analytical use with a tot
 * **dim_product –** category, subcategory, product lines, cost.
 
 The project uses **SQL Server** and **Tableau Desktop** to completely understand the datasets and ensure that insights from the analysis are based on solid foundations.
-![]()
+![](images/db_structure.png)
 
 # Executive Summary
 

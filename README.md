@@ -45,7 +45,7 @@ The business experienced **strong YoY growth across all major sales KPIs:**
 In the year 2011, sales continued to spike significantly until 2013. Key performance indicators have all shown year-over-year increases in performing months. This increase can be attributed to prioritising target customers, stock availability, and promotional banners. 
 
 Below is the overview snapshot from the Tableau Dashboard and performance throughout the report.
-![](images/kpi_sales.png)
+![](images/picture5.png)
 
 # Product Performance Overview
 

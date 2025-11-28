@@ -18,7 +18,7 @@ SQL queries are utilized to clean, organize, and prepare data for the dashboard.
 
 SQL creates a table or view for users or stakeholders to analyze for decision-making.[view customer reports](scripts/Customer_Reports.sql)[view product reports](scripts/Product_Reports.sql)
 
-An interactive Tableau Dashboard can be downloaded [here.](https://github.com/maryrosefarina-ui/Fabio-Bike-Sales/blob/main/Sales & Customers Dashboard.twbx) can be downloaded.
+An interactive Tableau Dashboard can be downloaded [here.](https://github.com/maryrosefarina-ui/Fabio-Bike-Sales/raw/main/Sales & Customers Dashboard.twbx) can be downloaded.
 
 # Data Structure
 The data follows a star-schema structure optimized for analytical use with a total row count of 60,398 records.
